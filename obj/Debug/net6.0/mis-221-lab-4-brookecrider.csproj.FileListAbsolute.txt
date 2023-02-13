@@ -1,0 +1,15 @@
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\bin\Debug\net6.0\mis-221-lab-4-brookecrider.exe
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\bin\Debug\net6.0\mis-221-lab-4-brookecrider.deps.json
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\bin\Debug\net6.0\mis-221-lab-4-brookecrider.runtimeconfig.json
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\bin\Debug\net6.0\mis-221-lab-4-brookecrider.dll
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\bin\Debug\net6.0\mis-221-lab-4-brookecrider.pdb
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.csproj.AssemblyReference.cache
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.AssemblyInfoInputs.cache
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.AssemblyInfo.cs
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.csproj.CoreCompileInputs.cache
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.dll
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\refint\mis-221-lab-4-brookecrider.dll
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.pdb
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\mis-221-lab-4-brookecrider.genruntimeconfig.cache
+C:\Users\brook\MIS-221\lab4\mis-221-lab-4-brookecrider\obj\Debug\net6.0\ref\mis-221-lab-4-brookecrider.dll
