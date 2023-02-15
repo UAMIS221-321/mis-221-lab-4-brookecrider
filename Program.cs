@@ -3,7 +3,11 @@ int userChoice = GetUserChoice();
 while(userChoice!=3) {
     RouteMenu(userChoice);
     userChoice=GetUserChoice();
+    
 }
+
+
+
 // end main
 
 static int GetUserChoice() {
@@ -27,6 +31,9 @@ static bool IsValidChoice(string userChoice) {
     return false;
 
 }
+
+
+
 
 static void GetFull() {
     Random rnd = new Random();
@@ -76,9 +83,16 @@ static void RouteMenu(int userChoice) {
     else if(userChoice==3) {
         SayInvalid();
     }
+    else if(userChoice!=1 && userChoice!=2 && userChoice!=3) {
+        SayInvalid();
+    }
+
+    
+    
 
 }
 static void PauseAction() {
     System.Console.WriteLine("Press any key to continue.");
     Console.ReadKey();
 }
+
